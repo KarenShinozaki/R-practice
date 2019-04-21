@@ -3,7 +3,7 @@
 ## Code
 1. The markdown file for the entire chapter: [intro.Rmd](intro.Rmd)
 2. The pdf file with outputs: [intro.pdf](intro.pdf) 
-3. The R script file for the entire chapter: [intro.R](intro.R)
+3. The R script file for the entire chapter: [intro.R](intro1.R)
 4. The script used in Section 1.3.8: [UNpop.R](UNpop.R)
 
 ## Data sets
