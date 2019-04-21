@@ -3,7 +3,6 @@
 # Created by: karen
 # Created on: 2019-04-21
 
-## ------------------------------------------------------------------------
 5 + 3
 5 - 3
 5 / 3
@@ -164,4 +163,5 @@ mean(world.pop, na.rm = TRUE)
 ##
 ## library(lintr)
 ## lint("UNpop.R")
+
 
