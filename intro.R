@@ -65,8 +65,8 @@ range(world.pop)
 mean(world.pop)
 sum(world.pop) / length(world.pop)
 
-year <- seq(from = 1950, to = 2010, by = 10)
-year
+yearss <- seq(from = 1950, to = 2010, by = 10)
+yearss
 
 seq(to = 2010, by = 10, from = 1950)
 
@@ -75,7 +75,7 @@ seq(from = 2010, to = 1950, by = -10)
 2012:2008
 
 names(world.pop)
-names(world.pop) <- year
+names(world.pop) <- yearss
 names(world.pop)
 world.pop
 
